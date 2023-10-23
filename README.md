@@ -1,14 +1,14 @@
 # BarkBasics iOS Mobile Application Design
 
-Welcome to the BarkBasics iOS Mobile Application Design repository. This project encompasses the design and prototyping of an intuitive and user-friendly iOS mobile app tailored to dog owners' needs. BarkBasics aims to simplify pet ownership by offering features for health management, training tracking, appointment scheduling, alarms, and a community platform.
+Welcome to the BarkBasics iOS Mobile Application Design repository. This project encompasses the design and prototyping of an intuitive and user-friendly iOS mobile app tailored to dog owners' needs. BarkBasics aims to simplify pet ownership by offering features for health management, training tracking, and scheduling.
 
 ## Project Proposal
 
-BarkBasics is conceived to address the challenges faced by dog owners in managing their pets' well-being, training, and social interactions. The project proposal outlines the objectives, scope, and vision for the BarkBasics mobile application. You can find the complete project proposal [here](/project-proposal/proposal.pdf).
+BarkBasics is conceived to address the challenges faced by dog owners in managing their pets' well-being, training, and social interactions. The project proposal outlines the objectives, scope, and vision for the BarkBasics mobile application. You can find the complete project proposal [here](/project-proposal/ProjectProposalThaureaux.pdf).
 
 ## Project Requirements
 
-To ensure the successful development of BarkBasics, a set of comprehensive project requirements has been established. These requirements serve as a roadmap for the design and development phases, outlining the functionalities, user experience, and technical specifications. You can review the project requirements [here](/project-requirements/requirements.pdf).
+To ensure the successful development of BarkBasics, a set of comprehensive project requirements has been established. These requirements serve as a roadmap for the design and development phases, outlining the functionalities, user experience, and technical specifications. You can review the project requirements [here](/project-requirements/ProjectRequirementsThaureaux.pdf).
 
 ## Low Fidelity Prototypes
 
@@ -16,4 +16,4 @@ The low fidelity prototypes provide an initial visual representation of the app'
 
 ## High Fidelity Prototype
 
-The high fidelity prototype is the culmination of the design process, offering a detailed and interactive representation of the BarkBasics mobile app. It showcases the refined user interface, user interactions, and visual elements. You can interact with the high fidelity prototype through Figma by visiting [this link](https://www.figma.com/file/your-figma-link).
+The high fidelity prototype is the culmination of the design process, offering a detailed and interactive representation of the BarkBasics mobile app. It showcases the refined user interface, user interactions, and visual elements. You can interact with the high fidelity prototype through Figma by visiting [this link]([https://www.figma.com/file/your-figma-link](https://www.figma.com/proto/I9WbMfhjjQxCbQnEOQkBpb/BarkBasics-Prototype?type=design&node-id=1-3&t=jkpZgwACVdv0hsdE-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)https://www.figma.com/proto/I9WbMfhjjQxCbQnEOQkBpb/BarkBasics-Prototype?type=design&node-id=1-3&t=jkpZgwACVdv0hsdE-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1).
